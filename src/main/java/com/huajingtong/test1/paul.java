@@ -6,5 +6,6 @@ package com.huajingtong.test1;
 public class paul {
     public static void main(String[] args) {
         System.out.println("aaaaaaaaaaaaaaa");
+        System.out.println("bbbbbbbbbbbbbbb");
     }
 }
