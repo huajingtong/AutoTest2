@@ -5,6 +5,6 @@ package com.huajingtong.test1;
  */
 public class autotest1 {
     public static void main(String[] args) {
-        System.out.println("为啥没有变？？？？");
+        System.out.println("为啥没有变aaaaa？？？？");
     }
 }
